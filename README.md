@@ -4,7 +4,7 @@
 Materials and Python notebooks for COMM 187 (160DS) Data Science in Communication Research offered at UC Santa Barbara.
 Students enrolled in the class can access readings, syllabus, and other materials on Canvas.
 
-**Fall 2024** \
+**Spring 2025** \
 **M 5 PM - 7:20 PM, ILP 2211**
 
 **Instructors** \
